@@ -1,6 +1,6 @@
 {
   "name": "template-single-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "独立组件模版",
   "module": "./lib/index.js",
   "main": "./lib/index.js",
