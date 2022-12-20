@@ -1,0 +1,25 @@
+{
+  "name": "template-single-component",
+  "version": "1.0.0",
+  "description": "独立组件模版",
+  "module": "./lib/index.js",
+  "main": "./lib/index.js",
+  "browser": {
+    "./lib/index.js": "./umd/index.js"
+  },
+  "scripts": {},
+  "author": {
+    "name": "moneko"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "files": [
+    "config",
+    "example",
+    "src",
+    "typings",
+    "LICENSE",
+    "tsconfig.json"
+  ]
+}
